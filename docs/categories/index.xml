@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ありれっくす</title>
+    <link>https://alirex-ds.github.io/categories/</link>
+    <description>Recent content in Categories on ありれっくす</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <managingEditor>alirex.2022.info@gmail.com (alirex development studio)</managingEditor>
+    <webMaster>alirex.2022.info@gmail.com (alirex development studio)</webMaster><atom:link href="https://alirex-ds.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
