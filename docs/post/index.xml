@@ -2,21 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ありれっくす</title>
-    <link>https://alirex-ds.github.io/post/</link>
+    <link>https://alirexds.github.io/post/</link>
     <description>Recent content in Posts on ありれっくす</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>jp</language>
     <managingEditor>alirex.2022.info@gmail.com (alirex development studio)</managingEditor>
     <webMaster>alirex.2022.info@gmail.com (alirex development studio)</webMaster>
-    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alirex-ds.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://alirexds.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初投稿!</title>
-      <link>https://alirex-ds.github.io/post/2023-11-15-%E5%88%9D%E6%8A%95%E7%A8%BF/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <author>alirex.2022.info@gmail.com (alirex development studio)</author>
-      <guid>https://alirex-ds.github.io/post/2023-11-15-%E5%88%9D%E6%8A%95%E7%A8%BF/</guid>
+      <link>https://alirexds.github.io/post/2023-11-15-%E5%88%9D%E6%8A%95%E7%A8%BF/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate><author>alirex.2022.info@gmail.com (alirex development studio)</author>
+      <guid>https://alirexds.github.io/post/2023-11-15-%E5%88%9D%E6%8A%95%E7%A8%BF/</guid>
       <description>初記事にして初投稿になります。よろしくお願いします!</description>
     </item>
-    
   </channel>
 </rss>

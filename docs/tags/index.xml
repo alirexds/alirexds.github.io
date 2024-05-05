@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ありれっくす</title>
-    <link>https://alirex-ds.github.io/tags/</link>
+    <link>https://alirexds.github.io/tags/</link>
     <description>Recent content in Tags on ありれっくす</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>jp</language>
     <managingEditor>alirex.2022.info@gmail.com (alirex development studio)</managingEditor>
-    <webMaster>alirex.2022.info@gmail.com (alirex development studio)</webMaster><atom:link href="https://alirex-ds.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>alirex.2022.info@gmail.com (alirex development studio)</webMaster>
+    <atom:link href="https://alirexds.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

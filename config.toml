@@ -1,4 +1,4 @@
-baseurl = "https://alirex-ds.github.io"
+baseurl = "https://alirexds.github.io"
 DefaultContentLanguage = "jp"
 title = "ありれっくす"
 theme = "beautifulhugo"
